@@ -5,8 +5,8 @@ Analysis of trade, tariff, and economic indicators for Arabic countries (1988–
 Trade Analysis Project using Tableau Documentation (.docx)
 
 ## Datasets: 
-Kaggle Dataset (.csv)
-WDI Dataset    (.csv)
+- Kaggle Dataset (.csv)
+- WDI Dataset    (.csv)
 
 ## Tableau Project File: 
 Trade Analysis Project (.twbx)
